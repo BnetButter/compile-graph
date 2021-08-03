@@ -1,6 +1,6 @@
 from typing import *
 from collections import defaultdict
-import wrapviz as wv
+from . import wrapviz as wv
 import re
 import os
 
