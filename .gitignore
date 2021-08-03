@@ -3,3 +3,7 @@ __pycache__
 .vscode
 dist
 *.svg
+*.i
+*.o
+*.out
+*.gv
